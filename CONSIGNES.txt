@@ -1,0 +1,1 @@
+Lire la fiche TP. Completer calculer_statistiques, creer Dockerfile, choisir les montages et documenter le projet. Ne pas distribuer le dossier TP_corrige.
